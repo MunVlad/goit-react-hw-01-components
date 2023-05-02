@@ -18,7 +18,7 @@ export function Profile({ username, avatar, tag, location, stats }) {
       <ul className={css.stats}>
     <li>
       <span className={css.label}>Followers</span>
-      <span class={css.quantity}>{followers}</span>
+      <span className={css.quantity}>{followers}</span>
     </li>
     <li>
       <span className={css.label}>Views</span>

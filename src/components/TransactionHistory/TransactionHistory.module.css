@@ -1,10 +1,11 @@
-.transaction {
+.transaction-history {
   background-color: #fff;
   width: 600px;
   margin: 0px auto;
   margin-bottom: 100px;
   padding: 30px;
   border-radius: 10px;
+  border: 1px solid #000;
 }
 
 th,
